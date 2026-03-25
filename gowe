@@ -3,27 +3,27 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>PortraitShift — Video Converter</title>fsf
+<title>PortraitShift — Video Converter</title>
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
 <style>
   :root {
     --bg: #0a0a0f;
     --surface: #111118;
-    --surface2: #1a1a24;fsdf
+    --surface2: #1a1a24;
     --accent: #ff3c5f;
     --accent2: #ff9a3c;
     --green: #00e5a0;
     --text: #f0f0f5;
     --muted: #6b6b80;
     --border: rgba(255,255,255,0.07);
-    --glow: rgba(255,60,95,0.25);fds
+    --glow: rgba(255,60,95,0.25);
   }
 
   * { box-sizing: border-box; margin: 0; padding: 0; }
 
   body {
     background: var(--bg);
-    color: var(--text);f
+    color: var(--text);
     font-family: 'DM Sans', sans-serif;
     min-height: 100vh;
     overflow-x: hidden;
@@ -33,7 +33,7 @@
   body::before {
     content: '';
     position: fixed;
-    inset: 0;sd
+    inset: 0;
     background-image:
       linear-gradient(rgba(255,60,95,0.03) 1px, transparent 1px),
       linear-gradient(90deg, rgba(255,60,95,0.03) 1px, transparent 1px);
