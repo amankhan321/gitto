@@ -13,7 +13,7 @@
     --accent: #ff3c5f;
     --accent2: #ff9a3c;aff
     --green: #00e5a0;
-    --text: #f0f0f5;
+    --text: #f0f0f5;afs
     --muted: #6b6b80;
     --border: rgba(255,255,255,0.07);
     --glow: rgba(255,60,95,0.25);
