@@ -14,7 +14,7 @@
     --accent2: #ff9a3c;gdf
     --green: #00e5a0;gdggdfg
     --text: #f0f0f5;gdfg
-    --muted: #6b6b80;
+    --muted: #6b6b80;gdfg
     --border: rgba(255,255,255,0.07);jghjgfdfg
     --glow: rgba(255,60,95,0.25);
   }gdfg
