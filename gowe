@@ -19,7 +19,7 @@
     --glow: rgba(255,60,95,0.25);
   }
 
-  * { box-sizing: border-box; margin: 0; padding: 0; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }fsa
 
   body {
     background: var(--bg);
