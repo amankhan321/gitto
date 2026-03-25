@@ -16,7 +16,7 @@
     --text: #f0f0f5;gdfggdfgdf
     --muted: #6b6b80;gdfggdfggdf
     --border: rgba(255,255,255,0.07)gd
-    --glow: rgba(255,60,95,0.25);
+    --glow: rgba(255,60,95,0.25);gdgd
   }gdfggd
 
   * { box-sizing: border-box; margin: 0; padding: 0; }
